@@ -3,9 +3,13 @@ We want you to be a part in our **HUGE** update introducing the WinTweaks11 Inst
 But that is not everything! We are going to use 5 different types off WLaM, making you able to choose your own type (skilled level) TweakPack. With each type we give you different options, for example:
 
    > Want to install the normal version of WLaM?   -> Default_Mode
+
    > want a Portable version, for your school laptop?   -> Basic_Mode
+
    > or do you just want to download the files?   -> Minimal_Mode
+
    > or want to go the other way, and add your own features?   -> Advanced_Mode / Developer_mode
+
 
 check "WLaM Generation + Version + Serial log" for extra information about serial_keys, generations, versions and types.
 
