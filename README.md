@@ -39,7 +39,7 @@ Then we send an Mail to verify the usage (if we don't accept it you need to dele
 
 ### **Are all programs we use open source?**
 
-Sometimes we need to use for example programs that aren't open source when this occurs you will be warned about this with the program that isn't open source! Because we are open source we appreciated it when people give us feedback about our projects! 
+Sometimes we need to use programs that aren't open source when this occurs you will be warned about this with the program that isn't open source! Because we are open source we appreciated it when people give us feedback about our projects! 
 So Please Leave a message when the project isn't working correctly! and send your feedback so we can make this project better for you! the consumer. 
 In the future we will provide versions made with feedback from the community in our mind. 
 
